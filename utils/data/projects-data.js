@@ -28,7 +28,7 @@ export const projectsData = [
       "Developed APIs to form a smooth interface between database and the platform.",
       "Tech-Stack: Reactjs, Redux, MongoDB, Nodejs, Tailwind.",
     ],
-    code: "https://github.com/RahulGupta77/Sorting-Visualizer",
+    code: "https://github.com/Vansh16aug/StackBuddy-frontend",
     demo: "https://stackbuddy.projectwork.tech/",
     image: stackbuddy,
   },
